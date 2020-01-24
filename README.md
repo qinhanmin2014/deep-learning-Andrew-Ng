@@ -6,10 +6,6 @@ Deep learning online course from Andrew Ng.
 
 
 
-## homework (data & code)
-
-
-
 ## videos & PPT
 
 https://pan.baidu.com/s/1xzVY3Tcgu55Hi4E9Nfz6aw i1bk
